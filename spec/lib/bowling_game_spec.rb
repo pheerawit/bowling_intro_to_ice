@@ -1,4 +1,3 @@
-#Pheerawit Charuvajana 5631299421
 require 'rspec'
 require 'Bowling' 
 

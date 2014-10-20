@@ -1,4 +1,3 @@
-#Pheerawit Charuvajana 5631299421
 class Bowling
 	def initialize
 		@score = 0
